@@ -1,0 +1,64 @@
+.course-list-container {
+  padding: 2rem;
+  background-color: #f5f5f5;
+  border-radius: 0.5rem;
+
+  h2 {
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+    font-size: 1.8rem;
+  }
+
+  .search-field {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 1rem;
+    display: block;
+  }
+
+  button[mat-raised-button] {
+    margin-bottom: 1rem;
+  }
+
+  mat-progress-bar {
+    margin: 1rem 0;
+  }
+
+  table {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    margin-bottom: 1rem;
+
+    th {
+      font-weight: bold;
+    }
+
+    td,
+    th {
+      padding: 0.75rem 1rem;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    mat-icon-button {
+      margin-right: 0.25rem;
+    }
+  }
+
+  p {
+    font-style: italic;
+    color: #777;
+    margin: 2rem 0;
+  }
+
+  mat-paginator {
+    margin-top: 1rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+  }
+}

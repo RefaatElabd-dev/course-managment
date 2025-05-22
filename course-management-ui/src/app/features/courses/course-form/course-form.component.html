@@ -1,0 +1,68 @@
+<div class="course-form-container">
+  <h2>{{ isEdit ? 'Edit Course' : 'Add New Course' }}</h2>
+
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <!-- Title -->
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Title</mat-label>
+      <input matInput formControlName="title" placeholder="Enter course title" />
+      <mat-error *ngIf="form.get('title')?.hasError('required')">
+        Title is required
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Description -->
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Description</mat-label>
+      <textarea
+        matInput
+        formControlName="description"
+        placeholder="Enter course description"
+        rows="4"
+      ></textarea>
+      <mat-error *ngIf="form.get('description')?.hasError('required')">
+        Description is required
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Instructor -->
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Instructor</mat-label>
+      <input matInput formControlName="instructor" placeholder="Instructor name" />
+      <mat-error *ngIf="form.get('instructor')?.hasError('required')">
+        Instructor is required
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Start Date -->
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Start Date</mat-label>
+      <input matInput type="date" formControlName="startDate" />
+      <mat-error *ngIf="form.get('startDate')?.hasError('required')">
+        Start date is required
+      </mat-error>
+    </mat-form-field>
+
+    <!-- End Date -->
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>End Date</mat-label>
+      <input matInput type="date" formControlName="endDate" />
+      <mat-error *ngIf="form.get('endDate')?.hasError('required')">
+        End date is required
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Is Completed -->
+    <mat-checkbox formControlName="isCompleted">Completed</mat-checkbox>
+
+    <!-- Buttons -->
+    <div class="form-buttons">
+      <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+        {{ isEdit ? 'Update' : 'Create' }}
+      </button>
+      <button mat-button type="button" (click)="router.navigate(['/'])">
+        Cancel
+      </button>
+    </div>
+  </form>
+</div>

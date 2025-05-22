@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Apps\\course_Management\\CourseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\dto\\courseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\dto\\courseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\interfaces\\icourseservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\interfaces\\icourseservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C222747-E83A-4483-8727-8D43E40DDE07}|CourseService.Tests\\CourseService.Tests.csproj|f:\\apps\\course_management\\coursemanagement\\courseservice.tests\\courseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C222747-E83A-4483-8727-8D43E40DDE07}|CourseService.Tests\\CourseService.Tests.csproj|solutionrelative:courseservice.tests\\courseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\mapper\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\mapper\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\services\\courserequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\services\\courserequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|f:\\apps\\course_management\\coursemanagement\\coursemanagement\\dto\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAA3098-F059-4497-899C-AA5F1D20CEA3}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\dto\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Services\\CourseService.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Services\\CourseService.cs",
+              "RelativeToolTip": "CourseManagement\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:45:05.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Program.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Program.cs",
+              "RelativeToolTip": "CourseManagement\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:33:26.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Controllers\\CourseController.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseManagement\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:37:15.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseServise.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Interfaces\\ICourseServise.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Interfaces\\ICourseServise.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Interfaces\\ICourseServise.cs",
+              "RelativeToolTip": "CourseManagement\\Interfaces\\ICourseServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:35:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseResponse.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\DTO\\CourseResponse.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\DTO\\CourseResponse.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\DTO\\CourseResponse.cs",
+              "RelativeToolTip": "CourseManagement\\DTO\\CourseResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:28:39.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseServiceTests.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseService.Tests\\CourseServiceTests.cs",
+              "RelativeDocumentMoniker": "CourseService.Tests\\CourseServiceTests.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseService.Tests\\CourseServiceTests.cs",
+              "RelativeToolTip": "CourseService.Tests\\CourseServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:47:39.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CourseManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:46:22.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CourseManagement\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CourseManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T22:48:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseRequestValidator.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Services\\CourseRequestValidator.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Services\\CourseRequestValidator.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Services\\CourseRequestValidator.cs",
+              "RelativeToolTip": "CourseManagement\\Services\\CourseRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:43:28.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseProfile.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Mapper\\CourseProfile.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Mapper\\CourseProfile.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Mapper\\CourseProfile.cs",
+              "RelativeToolTip": "CourseManagement\\Mapper\\CourseProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:30:24.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\Entity\\Course.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\Entity\\Course.cs",
+              "RelativeToolTip": "CourseManagement\\Entity\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:44:42.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\DTO\\APIResponse.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\DTO\\APIResponse.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\DTO\\APIResponse.cs",
+              "RelativeToolTip": "CourseManagement\\DTO\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:34:55.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseRequest.cs",
+              "DocumentMoniker": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\DTO\\CourseRequest.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\DTO\\CourseRequest.cs",
+              "ToolTip": "F:\\Apps\\course_Management\\CourseManagement\\CourseManagement\\DTO\\CourseRequest.cs",
+              "RelativeToolTip": "CourseManagement\\DTO\\CourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:29:43.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
