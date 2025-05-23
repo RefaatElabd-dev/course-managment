@@ -7,6 +7,51 @@
 /CourseManagement/**/obj
 /CourseManagement/**/appsettings.*.json
 
+/CourseManagement/**/[Dd]ebug/
+/CourseManagement/**/[Dd]ebugPublic/
+/CourseManagement/**/[Rr]elease/
+/CourseManagement/**/[Rr]eleases/
+/CourseManagement/**/x64/
+/CourseManagement/**/x86/
+/CourseManagement/**/[Ww][Ii][Nn]32/
+/CourseManagement/**/[Aa][Rr][Mm]/
+/CourseManagement/**/[Aa][Rr][Mm]64/
+/CourseManagement/**/bld/
+/CourseManagement/**/[Bb]in/
+/CourseManagement/**/[Oo]bj/
+/CourseManagement/**/[Ll]og/
+/CourseManagement/**/[Ll]ogs/
+
+# .NET Core
+/CourseManagement/**/project.lock.json
+/CourseManagement/**/project.fragment.lock.json
+/CourseManagement/**/artifacts/
+
+# ASP.NET Scaffolding
+/CourseManagement/**/ScaffoldingReadMe.txt
+
+# NuGet Packages
+/CourseManagement/**/*.nupkg
+# NuGet Symbol Packages
+/CourseManagement/**/*.snupkg
+
+# Others
+/CourseManagement/**/~$*
+/CourseManagement/**/*~
+/CourseManagement/**/CodeCoverage/
+
+# MSBuild Binary and Structured Log
+/CourseManagement/**/*.binlog
+
+# MSTest test Results
+/CourseManagement/**/[Tt]est[Rr]esult*/
+/CourseManagement/**/[Bb]uild[Ll]og.*
+
+# NUnit
+/CourseManagement/**/*.VisualState.xml
+/CourseManagement/**/TestResult.xml
+/CourseManagement/**/nunit-*.xml
+
 
 CourseManagement/.vs/
 .vs/
